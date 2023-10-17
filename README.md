@@ -17,6 +17,10 @@ This project was focused on all space missions from 1957 to August 2022, includi
 
 ## DATA VISUALIZATION 
 
+You can interact with the dashboard on the link [here](https://app.powerbi.com/groups/me/reports/04ace7f0-f3fd-4583-917a-3874353af545/ReportSection?experience=powerbi). 
+
+![](https://github.com/festusaigbogun/PowerBI_Space_Mission_Project/blob/main/Image/chrome_sL9pgDfCWj~2.png) 
+
 
 ## INSIGHTS
 
